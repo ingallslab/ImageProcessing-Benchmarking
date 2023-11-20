@@ -5,7 +5,7 @@ Individual Package Folders: Each package has a dedicated folder where outputs fo
 
 Ground Truth: Contains data related to reference masks for segmentation ground truth, along with data for tracking ground truth.
 
-Pixel-Classification: Stores data associated with the output from Ilastik, used as input for FAST and CP.
+Pixel-Classification-Ilastik: Stores data associated with the output from Ilastik, used as input for FAST and CP.
 
 Raw-Images: Houses all datasets of raw images and inputs.
 
