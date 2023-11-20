@@ -9,6 +9,8 @@ Pixel-Classification-Ilastik: Stores data associated with the output from Ilasti
 
 Raw-Images: Houses all datasets of raw images and inputs.
 
+Pipelines: This folder includes the pipeline for each package utilized in this study.
+
 Scripts: Contains individual README files offering guidance for each script. These scripts are  for the analyses in the study titled "A benchmarked comparison of software packages for time-lapse image processing of monolayer bacterial population dynamics".
 
 For additional information, please feel free to reach out to atiyeh.ahmadi@uwaterloo.ca
