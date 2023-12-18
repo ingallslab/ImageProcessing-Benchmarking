@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
         # Apply shift to the moving image and save
         corrected_image = shift(moving_image, shift=(shifted[0], shifted[1]), mode='constant',
-                                cval=0, order=background_color)
+                                cval=background_color)
 
         io.imsave(output_path + os.path.basename(images_list[img_indx - 1]), corrected_image)
 
