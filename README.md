@@ -1,5 +1,5 @@
 # ImageProcessing-Benchmarking
-## In this repository, you will find the following folders:
+### In this repository, you will find the following folders:
 
 <p align="justify"><b>Individual Package Folders:</b> Each package has a dedicated folder where outputs for each dataset are stored. Inside these, there's a subfolder named <i>"Analyses"</i>, which includes tracking plots for each package and post-processing analyses.</p></br>
 
