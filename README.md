@@ -1,7 +1,7 @@
 # ImageProcessing-Benchmarking
-In this repository, you will find the following folders:
+## In this repository, you will find the following folders:
 
-Individual Package Folders: Each package has a dedicated folder where outputs for each dataset are stored. Inside these, there's a subfolder named "Analyses", which includes tracking plots for each package and post-processing analyses.
+<p align="justify"><b>Individual Package Folders:</b> Each package has a dedicated folder where outputs for each dataset are stored. Inside these, there's a subfolder named <i>"Analyses"</i>, which includes tracking plots for each package and post-processing analyses.</p></br>
 
 Ground Truth: Contains data related to reference masks for segmentation ground truth, along with data for tracking ground truth.
 
